@@ -69,17 +69,6 @@ Para planejamento e acompanhamento do progresso, utilizamos a ferramenta **[Trel
   -  Foram realizadas reuniões diárias via Microsoft Teams para o desenvolvimento do código e configuração dos serviços da **AWS**.  
   - O fluxo de trabalho foi organizado em etapas.  
 
-
-## 🏆 Divisão de Tarefas
-
-Durante o desenvolvimento e planejamento, não houve uma divisão rígida de atribuições. No entanto, as responsabilidades podem ser organizadas da seguinte forma:  
-
-- **Moisés**: Imagem docker e Integração da API com os serviços da AWS.  
-- **Guilherme**: Estruturação e desenvolvimento da API.  
-- **Paulo**: Desenvolvimento e organização do Front-end.  
-- **Osvaldo**: Ajustes e documentação. 
-
-
 ## 📂 Estruturação de Pastas
 
 A estruturação de pastas da API teve como base alguns princípios de Domain Driven Design (DDD), com uma divisão em 3 camadas:
@@ -217,10 +206,3 @@ Definir regras de acesso:
 
 ### Solução  
 - Criação de um *script.sh* para automatizar o processo, reduzindo erros e tempo de configuração. O arquivo se encontra na raíz do projeto.
-
-# 👨‍💻 Autores
-
-- Moisés
-- Guilherme
-- Paulo
-- Osvaldo
